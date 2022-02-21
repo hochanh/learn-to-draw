@@ -11,4 +11,4 @@
 ## Pen & Ink drawing
 
 - [x] Book: [Pen and Ink Drawing: A Simple Guide](https://www.amazon.com/dp/0997046538)
-- [ ] Book: [Rendering in Pen and Ink](https://www.amazon.com/dp/0823045293)
+- [x] Book: [Rendering in Pen and Ink](https://www.amazon.com/dp/0823045293)
